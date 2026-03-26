@@ -1,16 +1,16 @@
-## Hi there 👋
+# Yusuf Karanfil
 
-<!--
-**Yusuf-Karanfil/Yusuf-Karanfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer based in Ankara, Turkey.
 
-Here are some ideas to get you started:
+Currently working at Bulut İletişim — building and maintaining 
+web platforms for corporate projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+PHP · Python · Django · JavaScript · HTML · CSS · Bootstrap
+
+## Tools
+WordPress · MySQL · Git · Docker · Kubernetes
+
+## Contact
+📧 yusufkaranfil06@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/yusufkaranfil)
