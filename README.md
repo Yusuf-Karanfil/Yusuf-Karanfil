@@ -6,7 +6,7 @@ Currently working at Bulut İletişim — building and maintaining
 web platforms for corporate projects.
 
 ## Stack
-PHP · Python · Django · JavaScript · HTML · CSS · Bootstrap
+PHP · Python · Django · JavaScript · HTML · CSS · Bootstrap . AI/ML
 
 ## Tools
 WordPress · MySQL · Git · Docker · Kubernetes
