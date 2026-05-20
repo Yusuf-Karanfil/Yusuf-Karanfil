@@ -9,7 +9,7 @@ web platforms for corporate projects.
 PHP · Python · Django · JavaScript · HTML · CSS · Bootstrap and AI/ML 
 
 ## Tools
-WordPress · MySQL · Git · Docker · Kubernetes
+WordPress · MySQL · Git · Docker · Kubernetes . Claude AI
 
 ## Contact
 📧 yusufkaranfil06@gmail.com  
